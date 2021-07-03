@@ -8,4 +8,92 @@ h1{
 #dipu{ 
     background-color: darkblue;
     color: darkgray;
+}.Dipu{
+    color:rgb(110, 46, 173);
+    background-color: rgb(21, 207, 145);
+    background-position: center;
+    height: 30px;
+    width: 800px;
+}
+h1{
+    color:crimson;
+}
+h2{
+    color: darkblue;
+    background-color: rgb(163, 160, 112);
+    background-position: center;
+}
+#Nitu{
+    color: darkred;
+}
+.Tonu{
+    color: rgb(3, 43, 43);
+    background-color: forestgreen;
+}
+.Monu{
+    color: hotpink;
+    background-color: indigo;
+}
+.tonni{
+    color: lawngreen;
+
+}
+.monni{
+    color: rgb(56, 14, 153);
+    background-color: lightslategray;
+}
+#red{
+    color: red;
+}
+.p1 {
+    font-size: medium;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.p2 {
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+.p3 {
+    font-size: medium;
+    font-family: "Lucida Console", "Courier New", monospace;
+    }
+.niha{
+   background-color: darkorchid;
+    border: 5px solid darkkhaki;
+    border-radius: 2px;
+    margin: 20px 10px;
+}
+.ab{
+    background-color: darkslateblue;
+    border: 5px dashed darkkhaki;
+    border-radius: 2px;
+    margin: 20px 10px;
+}
+.aa{
+    background-color: deeppink;
+    border: 5px double darkkhaki;
+    border-radius: 2px;
+    margin: 20px 10px;
+}
+.abc{
+    background-color: dodgerblue;
+    border: 5px solid darkkhaki;
+    border-radius: 2px;
+    margin: 20px 10px;
+
+}
+.bb{
+    background-color: firebrick;
+    border: 5px dotted darkkhaki;
+    border-radius: 2px;
+    margin: 20px 10px;
+}
+.vx{
+    text-align: center;
+}
+#ll{
+    font-size: x-large;
+    font-family: Impact;
 }
